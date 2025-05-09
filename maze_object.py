@@ -36,8 +36,8 @@ def play_game():
   """ main game loop
   """ 
   maze = Maze()
-  while not maze.collision(maze.avatar,maze.goal):
-    pass
+  #while not maze.collision(maze.avatar,maze.goal):
+  #  pass
   print("congratulations")
   
 if __name__ == "__main__":
