@@ -1,4 +1,4 @@
-""" Title:  
+""" Title:  maze
 Author:  
 Date: 
 Version:  
