@@ -1,8 +1,8 @@
 """ Title:  maze
-Author:  
-Date: 
-Version:  
-Purpose:    
+Author:  Roly Gallogo
+Date: 9/05/2025
+Version:  1
+Purpose:  Simple Maze Game  
 """ 
 
 class Maze:
